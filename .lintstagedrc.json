@@ -1,0 +1,7 @@
+{
+  "*.{ts,tsx}": [
+    "yarn run prettier",
+    "yarn run lint",
+    "yarn run test:staged"
+  ]
+}
